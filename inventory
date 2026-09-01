@@ -1,2 +1,3 @@
-[AAP24]
-192.168.122.76
+plugin: ansible.controller.tower
+host: "https://aap27.containergateway.com" # Your target AAP 2.7 gateway URL
+validate_certs: true
